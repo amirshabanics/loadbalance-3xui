@@ -7,6 +7,7 @@ authors = [
 ]
 dependencies = [
     "requests>=2.32.3",
+    "cloudflare>=3.1.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

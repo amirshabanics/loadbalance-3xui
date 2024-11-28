@@ -48,6 +48,9 @@ def check_traffic(config: Config):
         # Change the ip
         pass
 
+
+
+
     # Reset traffic on some condition
     # session.post(
     #     url=f"https://{config.panel_url}/panel/inbound/{config.inbound_id}/resetClientTraffic/{config.config_email}"
